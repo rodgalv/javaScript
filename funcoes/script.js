@@ -13,7 +13,7 @@ imprimirNumero(5);
 imprimirNumero(8);
 
 const numeroAleatorio = function(){
-    console.log(Math.random());
+    console.log(Math.random());//num aleatorio entre 0 e 1
 }
 
 numeroAleatorio();
